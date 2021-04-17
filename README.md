@@ -1,1 +1,1 @@
-# prostate-zonal-segmentation-unet
+# prostate-zonal-segmentation
